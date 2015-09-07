@@ -1,0 +1,2 @@
+These results were obtained using the MLVessel v1.4 software using the pre-trained STARE classifier (stare-N10e6-k20.cla from mlvessel-optional-1.4.zip). MLVessel is available from:
+	http://sourceforge.net/apps/mediawiki/retinal/index.php?title=Software
