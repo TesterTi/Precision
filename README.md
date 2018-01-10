@@ -67,3 +67,5 @@ integral version, which is more accurate but slower, there is a boolean switch t
     /figures/support_functions/landgrebe_ipr_point.m
 
 all of the functions that recreate figures have an boolean option to turn integration off, which speeds things up a bit.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-112264682-2/welcome-page?pixel)](https://github.com/igrigorik/ga-beacon)
